@@ -511,7 +511,7 @@ http://210.210.155.35/session/e2502d5e-69a7-11ed-aeaf-b82a72d63267/dr9445/h/h04/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="2 INTERNATIONAL TV" ,National Geographic
+#EXTINF:-1 group-title="2 INTERNATIONAL TV" ,NATIONAL GEOGRAPHIC
 https://liveaneviadev.mncnow.id/live/eds/National Geographic/sa_dash_vmx/National Geographic.mpd
 
 
