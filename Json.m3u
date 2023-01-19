@@ -645,3 +645,20 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 
 #EXTINF:-1 group-title="Film TV",WAU
 http://nn.geo.joj.sk/hls/wau-360.m3u8
+
+#EXTINF:-1,MAKKAH
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://makkahlive.net/islamictv/alafasy-tv.gif" group-title="Kuwait (الكويت)",Al Afasy
+http://213.162.202.9:8000/play/a025/index.m3u8
+
+#EXTINF:-1,MADINAH
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1 ,MADINA LIVE
+https://stream.simpaisa.com/pitvlive2//madina_360p/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,MEKAH TV HD http://45.126.83.51/qwr9ew/s/s28/index2.m3u8
+
+#EXTINF:-1,MADINAH TV HD http://45.126.83.51/qwr9ew/s/s27/index2.m3u8
+
