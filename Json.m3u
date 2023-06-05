@@ -9,7 +9,7 @@ https://kusnadipepenk.github.io/campeign/trns.m3u8
 ##https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1317535298_b544100_sleng.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png",MNC
-https://akamai.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
+##https://akamai.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 ##http://kuchini.site:8080/live/joeBt/e229c03d/165054.ts
 ##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704434&extension=ts
 https://kusnadipepenk.github.io/campeign/mnc.m3u8
