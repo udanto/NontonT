@@ -1,4 +1,8 @@
 #EXTM3U url-tvg=https://bit.ly/htbiptv
+@@@@@@@ PIKOTV @@@@@@@
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="PIKOTV", PIkoTV
+http://pikotv.hexat.com
 
 @@@@@@@ NASIONAL @@@@@@@
 
